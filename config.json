@@ -3,7 +3,12 @@
         "registry.cn-hangzhou.aliyuncs.com": {
             "username": "comeonyang",
             "password": "DOCKERHUB_PASSWORD"
-        }
+        },
+        "us-docker.pkg.dev/spinnaker-community": {        
+        "username": "",              
+        "password": "",
+        "insecure": true  
+    }
     },
     "images": {
         "us-docker.pkg.dev/spinnaker-community/docker/halyard:1.45.0": "registry.cn-hangzhou.aliyuncs.com/priv_sync/halyard"
