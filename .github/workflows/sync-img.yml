@@ -15,7 +15,7 @@ jobs:
       
     - name: 镜像同步配置处理
       run: |
-        sed -i 's/DOCKERHUB_PASSWORD/${{ secrets.DOCKERHUB_PASSWORD }}/g' config.json
+        sed -i 's/DOCKERHUB_PASSWORD/${{ secrets.DOCKERHUB_PASSWORD }}/g' auth.json
         
     - name: 下载image-sync工具包
       run: |
