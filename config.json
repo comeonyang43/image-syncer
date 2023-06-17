@@ -6,7 +6,7 @@
         }
     },
     "images": {
-        "us-docker.pkg.dev/spinnaker-community/docker/halyard": "registry.cn-hangzhou.aliyuncs.com/priv_sync/halyard"
+        "us-docker.pkg.dev/spinnaker-community/docker/halyard:1.45.0": "registry.cn-hangzhou.aliyuncs.com/priv_sync/halyard"
     }
 }
 
