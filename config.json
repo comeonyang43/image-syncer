@@ -6,7 +6,7 @@
         }
     },
     "images": {
-        "k8s.gcr.io/ingress-nginx/controller": "registry.cn-hangzhou.aliyuncs.com/priv_sync"
+        "us-docker.pkg.dev/spinnaker-community/docker/halyard": "registry.cn-hangzhou.aliyuncs.com/priv_sync/halyard"
     }
 }
 
