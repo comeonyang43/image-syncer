@@ -1,0 +1,11 @@
+{
+    "auth": {
+        "registry.cn-hangzhou.aliyuncs.com": {
+            "username": "comeonyang",
+            "password": "DOCKERHUB_PASSWORD"
+        }
+    },
+    "images": {
+        "k8s.gcr.io/ingress-nginx/controller": "registry.cn-hangzhou.aliyuncs.com/priv_sync"
+    }
+}
