@@ -1,6 +1,6 @@
 {
         "us-docker.pkg.dev/spinnaker-community/docker/halyard:1.45.0": "registry.cn-hangzhou.aliyuncs.com/priv_sync/halyard",
-         "docker.io/bitnami/minio:2023.5.4-debian-11-r1": "registry.cn-hangzhou.aliyuncs.com/priv_sync/minio"
+         "docker.io/bitnami/minio:2023.5.4-debian-11-r1": "registry.cn-hangzhou.aliyuncs.com/priv_sync"
 }
 
 
