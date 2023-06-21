@@ -3,7 +3,9 @@
          "docker.io/bitnami/minio:2023.5.4-debian-11-r1": "registry.cn-hangzhou.aliyuncs.com/priv_sync/minio",
           "openebs/provisioner-localpv:3.4.0": "registry.cn-hangzhou.aliyuncs.com/priv_sync/provisioner-localpv",
         "openebs/node-disk-operator:2.1.0": "registry.cn-hangzhou.aliyuncs.com/priv_sync/node-disk-operator",
-        "openebs/node-disk-manager:2.1.0":  "registry.cn-hangzhou.aliyuncs.com/priv_sync/node-disk-manager"
+        "openebs/node-disk-manager:2.1.0":  "registry.cn-hangzhou.aliyuncs.com/priv_sync/node-disk-manager",
+        "docker.io/bitnami/clickhouse:23.2.3-debian-11-r0": "registry.cn-hangzhou.aliyuncs.com/priv_sync/clickhouse",
+        "docker.io/bitnami/bitnami-shell:11-debian-11-r94": "registry.cn-hangzhou.aliyuncs.com/priv_sync/bitnami-shell"
 }
 
 
