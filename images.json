@@ -1,5 +1,5 @@
 {
-        "gcr.io/kaniko-project/executor:debug": "registry.cn-hangzhou.aliyuncs.com/priv_sync/executor"
+        "gcr.io/kaniko-project/executor:v1.12.1-debug": "registry.cn-hangzhou.aliyuncs.com/priv_sync/executor"
 }
 
 
