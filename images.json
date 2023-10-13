@@ -1,5 +1,10 @@
 {
-        "gcr.io/kaniko-project/executor:v1.12.1-debug": "registry.cn-hangzhou.aliyuncs.com/priv_sync/executor"
+        quay.io/cephcsi/cephcsi:v3.9.0: "registry.cn-hangzhou.aliyuncs.com/priv_sync/cephcsi",
+        registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0: "registry.cn-hangzhou.aliyuncs.com/priv_sync/csi-node-driver-registrar",
+        registry.k8s.io/sig-storage/csi-provisioner:v3.5.0: "registry.cn-hangzhou.aliyuncs.com/priv_sync/csi-provisione",
+        registry.k8s.io/sig-storage/csi-snapshotter:v6.2.2: "registry.cn-hangzhou.aliyuncs.com/priv_sync/csi-snapshotter",
+        registry.k8s.io/sig-storage/csi-attacher:v4.3.0: "registry.cn-hangzhou.aliyuncs.com/priv_sync/csi-attacher",
+        registry.k8s.io/sig-storage/csi-resizer:v1.8.0: "registry.cn-hangzhou.aliyuncs.com/priv_sync/csi-resizer"
 }
 
 
