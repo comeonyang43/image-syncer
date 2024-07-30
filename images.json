@@ -1,6 +1,5 @@
 {
-        "docker.io/bitnami/kibana:8.7.1-debian-11-r2": "registry.cn-hangzhou.aliyuncs.com/priv_sync/kibana:8.7.1-debian-11-r2"
-       
+        "docker pull jenkins/jenkins:2.469-jdk17": "registry.cn-hangzhou.aliyuncs.com/priv_sync/jenkins:2.469-jdk17"   
 }
 
 
