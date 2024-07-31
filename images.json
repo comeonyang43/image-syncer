@@ -1,6 +1,6 @@
 {
-        "jenkins/jenkins:2.469-jdk17": "registry.cn-hangzhou.aliyuncs.com/priv_sync/jenkins:2.469-jdk17",
-        "jenkins/inbound-agent:alpine-jdk17": "registry.cn-hangzhou.aliyuncs.com/priv_sync/inbound-agent:alpine-jdk17"
+        "jenkins/jenkins:2.469-jdk17": "registry.cn-hangzhou.aliyuncs.com/infra-img/jenkins:2.469-jdk17",
+        "jenkins/inbound-agent:alpine-jdk17": "registry.cn-hangzhou.aliyuncs.com/infra-img/inbound-agent:alpine-jdk17"
 }
 
 
